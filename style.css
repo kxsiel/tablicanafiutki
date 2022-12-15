@@ -56,6 +56,20 @@ body {
   background-image: url("sorek.jpg");
 }
 
+.gowniak {
+  background-image: url("gowniak.jpg");
+}
+
 .not-found {
   background-image: url("404.jpg");
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  color: white;
+}
+
+footer {
+  display: block;
 }
